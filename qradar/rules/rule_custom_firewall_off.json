@@ -1,7 +1,7 @@
 {
   "id": 100483,
-  "name": "Custom 4: Suspicious Encoded PowerShell Execution",
+  "name": "Custom 3: Windows Firewall State Modified or Disabled",
   "enabled": true,
-  "description": "Detects obfuscated PowerShell scripts using -EncodedCommand parameter via WinCollect.",
+  "description": "Detects defense evasion attempts by stopping or altering Windows Firewall service via WinCollect.",
   "response_custom_action_id": -1
 }
