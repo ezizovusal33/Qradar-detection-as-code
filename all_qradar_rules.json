@@ -19,7 +19,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1431",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186670307862,
         "type": "EVENT",
@@ -27,9 +27,9 @@
         "modification_date": 1358136000000,
         "linked_rule_identifier": null,
         "name": "Excessive Database Connections",
-        "average_capacity": 1216574,
+        "average_capacity": 1368382,
         "id": 100003,
-        "base_capacity": 1216574
+        "base_capacity": 1368382
     },
     {
         "owner": "admin",
@@ -51,7 +51,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1412",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1151662656180,
         "type": "EVENT",
@@ -59,15 +59,15 @@
         "modification_date": 1267747984976,
         "linked_rule_identifier": null,
         "name": "Excessive Firewall Denies from Single Source",
-        "average_capacity": 1596704,
+        "average_capacity": 1638189,
         "id": 100044,
-        "base_capacity": 1596704
+        "base_capacity": 1638189
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1610",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038125790,
         "type": "EVENT",
@@ -75,15 +75,15 @@
         "modification_date": 1790698949819,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude DNS Name By IP",
-        "average_capacity": 3381805,
+        "average_capacity": 4513246,
         "id": 100045,
-        "base_capacity": 3381805
+        "base_capacity": 4513246
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1611",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038225890,
         "type": "EVENT",
@@ -91,15 +91,15 @@
         "modification_date": 1790698949631,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude DNS Name By MAC Address",
-        "average_capacity": 3806913,
+        "average_capacity": 3457097,
         "id": 100046,
-        "base_capacity": 3806913
+        "base_capacity": 3457097
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1612",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038282720,
         "type": "EVENT",
@@ -107,15 +107,15 @@
         "modification_date": 1790698949668,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude DNS Name By NetBIOS Name",
-        "average_capacity": 3182787,
+        "average_capacity": 3098277,
         "id": 100047,
-        "base_capacity": 3182787
+        "base_capacity": 3098277
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1607",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389037852790,
         "type": "EVENT",
@@ -123,15 +123,15 @@
         "modification_date": 1790698949030,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude IP By DNS Name",
-        "average_capacity": 2356934,
+        "average_capacity": 2561803,
         "id": 100048,
-        "base_capacity": 2356934
+        "base_capacity": 2561803
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1609",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038022530,
         "type": "EVENT",
@@ -139,15 +139,15 @@
         "modification_date": 1790698948903,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude IP By MAC Address",
-        "average_capacity": 2625705,
+        "average_capacity": 2645782,
         "id": 100049,
-        "base_capacity": 2625705
+        "base_capacity": 2645782
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1608",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389037989320,
         "type": "EVENT",
@@ -155,15 +155,15 @@
         "modification_date": 1790698949513,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude IP By NetBIOS Name",
-        "average_capacity": 1459640,
+        "average_capacity": 1118155,
         "id": 100050,
-        "base_capacity": 1459640
+        "base_capacity": 1118155
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1617",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038821160,
         "type": "EVENT",
@@ -171,15 +171,15 @@
         "modification_date": 1790698948792,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude MAC Address By DNS Name",
-        "average_capacity": 3586028,
+        "average_capacity": 4349906,
         "id": 100051,
-        "base_capacity": 3586028
+        "base_capacity": 4349906
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1616",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038703440,
         "type": "EVENT",
@@ -187,15 +187,15 @@
         "modification_date": 1790698948624,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude MAC Address By IP",
-        "average_capacity": 3886664,
+        "average_capacity": 4314622,
         "id": 100052,
-        "base_capacity": 3886664
+        "base_capacity": 4314622
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1618",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038939320,
         "type": "EVENT",
@@ -203,15 +203,15 @@
         "modification_date": 1790698949726,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude MAC Address By NetBIOS Name",
-        "average_capacity": 3402633,
+        "average_capacity": 3553281,
         "id": 100053,
-        "base_capacity": 3402633
+        "base_capacity": 3553281
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1614",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038538510,
         "type": "EVENT",
@@ -219,15 +219,15 @@
         "modification_date": 1790698950091,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude NetBIOS Name By DNS Name",
-        "average_capacity": 3892716,
+        "average_capacity": 3126270,
         "id": 100054,
-        "base_capacity": 3892716
+        "base_capacity": 3126270
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1613",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038369280,
         "type": "EVENT",
@@ -235,15 +235,15 @@
         "modification_date": 1790698949756,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude NetBIOS Name By IP",
-        "average_capacity": 3459130,
+        "average_capacity": 2967975,
         "id": 100055,
-        "base_capacity": 3459130
+        "base_capacity": 2967975
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1615",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1389038601880,
         "type": "EVENT",
@@ -251,15 +251,15 @@
         "modification_date": 1790698949400,
         "linked_rule_identifier": null,
         "name": "AssetExclusion: Exclude NetBIOS Name By MAC Address",
-        "average_capacity": 2711349,
+        "average_capacity": 1809103,
         "id": 100056,
-        "base_capacity": 2711349
+        "base_capacity": 1809103
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1427",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1167770437975,
         "type": "EVENT",
@@ -267,15 +267,15 @@
         "modification_date": 1790868800133,
         "linked_rule_identifier": "11febc2a-18f9-4f8d-a502-59a7789b60ca",
         "name": "Login Failure to Disabled Account",
-        "average_capacity": 3050108,
+        "average_capacity": 2908083,
         "id": 100057,
-        "base_capacity": 3050108
+        "base_capacity": 2908083
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1428",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1167770475662,
         "type": "EVENT",
@@ -283,15 +283,15 @@
         "modification_date": 1790868947272,
         "linked_rule_identifier": "b064550f-f75b-4455-b865-374bb6b33cf5",
         "name": "Login Failure to Expired Account",
-        "average_capacity": 3208065,
+        "average_capacity": 2694553,
         "id": 100059,
-        "base_capacity": 3208065
+        "base_capacity": 2694553
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1365",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1133998885680,
         "type": "EVENT",
@@ -299,15 +299,15 @@
         "modification_date": 1363628166560,
         "linked_rule_identifier": null,
         "name": "Login Failures Followed By Success from the same Source IP",
-        "average_capacity": 809441,
+        "average_capacity": 684476,
         "id": 100061,
-        "base_capacity": 809441
+        "base_capacity": 684476
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1407",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1149093503918,
         "type": "EVENT",
@@ -315,15 +315,15 @@
         "modification_date": 1790698904778,
         "linked_rule_identifier": null,
         "name": "Multiple Login Failures from the Same Source",
-        "average_capacity": 4497616,
+        "average_capacity": 4376176,
         "id": 100062,
-        "base_capacity": 4497616
+        "base_capacity": 4376176
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1510",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1277847524617,
         "type": "EVENT",
@@ -331,15 +331,15 @@
         "modification_date": 1277847699575,
         "linked_rule_identifier": null,
         "name": "Login Failures Followed By Success to the same Destination IP",
-        "average_capacity": 881569,
+        "average_capacity": 910456,
         "id": 100064,
-        "base_capacity": 881569
+        "base_capacity": 910456
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1467",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1271944018534,
         "type": "EVENT",
@@ -347,15 +347,15 @@
         "modification_date": 1790698896600,
         "linked_rule_identifier": null,
         "name": "Multiple Login Failures to the Same Destination",
-        "average_capacity": 3708923,
+        "average_capacity": 3324357,
         "id": 100065,
-        "base_capacity": 3708923
+        "base_capacity": 3324357
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1544",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1279042931470,
         "type": "EVENT",
@@ -363,15 +363,15 @@
         "modification_date": 1279048120282,
         "linked_rule_identifier": null,
         "name": "Login Failures Followed By Success to the same Username",
-        "average_capacity": 204236,
+        "average_capacity": 556976,
         "id": 100066,
-        "base_capacity": 204236
+        "base_capacity": 556976
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1543",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1279042097999,
         "type": "EVENT",
@@ -379,15 +379,15 @@
         "modification_date": 1279047410491,
         "linked_rule_identifier": null,
         "name": "Multiple Login Failures for Single Username",
-        "average_capacity": 3655352,
+        "average_capacity": 2805002,
         "id": 100067,
-        "base_capacity": 3655352
+        "base_capacity": 2805002
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1199",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1192392720374,
         "type": "COMMON",
@@ -395,9 +395,9 @@
         "modification_date": 1267747985320,
         "linked_rule_identifier": null,
         "name": "Login Successful After Scan Attempt",
-        "average_capacity": 1452453,
+        "average_capacity": 1159743,
         "id": 100068,
-        "base_capacity": 1452453
+        "base_capacity": 1159743
     },
     {
         "owner": "admin",
@@ -451,7 +451,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1445",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1187032270569,
         "type": "EVENT",
@@ -459,15 +459,15 @@
         "modification_date": 1267747985273,
         "linked_rule_identifier": null,
         "name": "DDoS Attack Detected",
-        "average_capacity": 1913692,
+        "average_capacity": 1799143,
         "id": 100072,
-        "base_capacity": 1913692
+        "base_capacity": 1799143
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1444",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1187032123375,
         "type": "EVENT",
@@ -475,9 +475,9 @@
         "modification_date": 1358136000000,
         "linked_rule_identifier": null,
         "name": "DDoS Events with High Magnitude Become Offenses",
-        "average_capacity": 4262029,
+        "average_capacity": 4191641,
         "id": 100074,
-        "base_capacity": 4262029
+        "base_capacity": 4191641
     },
     {
         "owner": "admin",
@@ -499,7 +499,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1414",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1152183696183,
         "type": "EVENT",
@@ -507,9 +507,9 @@
         "modification_date": 1790698904468,
         "linked_rule_identifier": null,
         "name": "DoS Events with High Magnitude Become Offenses",
-        "average_capacity": 4425562,
+        "average_capacity": 4783773,
         "id": 100077,
-        "base_capacity": 4425562
+        "base_capacity": 4783773
     },
     {
         "owner": "admin",
@@ -531,7 +531,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1362",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1133304801579,
         "type": "EVENT",
@@ -539,9 +539,9 @@
         "modification_date": 1267747984320,
         "linked_rule_identifier": null,
         "name": "Network DoS Attack Detected",
-        "average_capacity": 633954,
+        "average_capacity": 1674340,
         "id": 100079,
-        "base_capacity": 633954
+        "base_capacity": 1674340
     },
     {
         "owner": "admin",
@@ -579,7 +579,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1432",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186755523969,
         "type": "EVENT",
@@ -587,15 +587,15 @@
         "modification_date": 1440707735100,
         "linked_rule_identifier": null,
         "name": "Database Attempted Configuration Modification by a remote host",
-        "average_capacity": 5199126,
+        "average_capacity": 5638249,
         "id": 100084,
-        "base_capacity": 5199126
+        "base_capacity": 5638249
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1441",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186766450795,
         "type": "EVENT",
@@ -603,15 +603,15 @@
         "modification_date": 1440707191670,
         "linked_rule_identifier": null,
         "name": "Database Concurrent Logins from Multiple Locations",
-        "average_capacity": 3641660,
+        "average_capacity": 3107133,
         "id": 100085,
-        "base_capacity": 3641660
+        "base_capacity": 3107133
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1440",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186765868033,
         "type": "EVENT",
@@ -619,15 +619,15 @@
         "modification_date": 1440707157110,
         "linked_rule_identifier": null,
         "name": "Database Failures Followed by User Changes",
-        "average_capacity": 5437737,
+        "average_capacity": 4885913,
         "id": 100086,
-        "base_capacity": 5437737
+        "base_capacity": 4885913
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1436",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186757507316,
         "type": "EVENT",
@@ -635,15 +635,15 @@
         "modification_date": 1440707626990,
         "linked_rule_identifier": null,
         "name": "Database Groups Changed from Remote Host",
-        "average_capacity": 4134452,
+        "average_capacity": 3806333,
         "id": 100089,
-        "base_capacity": 4134452
+        "base_capacity": 3806333
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1438",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186759944673,
         "type": "EVENT",
@@ -651,15 +651,15 @@
         "modification_date": 1790698904500,
         "linked_rule_identifier": null,
         "name": "Multiple Database Failures Followed by Success",
-        "average_capacity": 5593466,
+        "average_capacity": 4851072,
         "id": 100090,
-        "base_capacity": 5593466
+        "base_capacity": 4851072
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1433",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186755767081,
         "type": "EVENT",
@@ -667,15 +667,15 @@
         "modification_date": 1492004324560,
         "linked_rule_identifier": null,
         "name": "Database Remote Login Failure",
-        "average_capacity": 3748266,
+        "average_capacity": 2843898,
         "id": 100092,
-        "base_capacity": 3748266
+        "base_capacity": 2843898
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1434",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186755981784,
         "type": "EVENT",
@@ -683,15 +683,15 @@
         "modification_date": 1440707482200,
         "linked_rule_identifier": null,
         "name": "Database Remote Login Success",
-        "average_capacity": 3837298,
+        "average_capacity": 4553112,
         "id": 100093,
-        "base_capacity": 3837298
+        "base_capacity": 4553112
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1435",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1186757398534,
         "type": "EVENT",
@@ -699,9 +699,9 @@
         "modification_date": 1440707780480,
         "linked_rule_identifier": null,
         "name": "Database User Rights Changed from Remote Host",
-        "average_capacity": 4293319,
+        "average_capacity": 3558338,
         "id": 100094,
-        "base_capacity": 4293319
+        "base_capacity": 3558338
     },
     {
         "owner": "admin",
@@ -771,7 +771,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1190",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1137107032393,
         "type": "EVENT",
@@ -779,15 +779,15 @@
         "modification_date": 1790698949945,
         "linked_rule_identifier": null,
         "name": "Local Mass Mailing Host Detected",
-        "average_capacity": 2542135,
+        "average_capacity": 2640542,
         "id": 100106,
-        "base_capacity": 2542135
+        "base_capacity": 2640542
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1197",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1133309699750,
         "type": "EVENT",
@@ -795,15 +795,15 @@
         "modification_date": 1790698894810,
         "linked_rule_identifier": null,
         "name": "Excessive Firewall Denies from Local Host",
-        "average_capacity": 6309944,
+        "average_capacity": 5607581,
         "id": 100108,
-        "base_capacity": 6309944
+        "base_capacity": 5607581
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1152",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1135212888708,
         "type": "COMMON",
@@ -811,15 +811,15 @@
         "modification_date": 1790698900541,
         "linked_rule_identifier": null,
         "name": "Host Port Scan Detected by Remote Host",
-        "average_capacity": 1057697,
+        "average_capacity": 781042,
         "id": 100109,
-        "base_capacity": 1057697
+        "base_capacity": 781042
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1360",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1132943994842,
         "type": "COMMON",
@@ -827,15 +827,15 @@
         "modification_date": 1267747984288,
         "linked_rule_identifier": null,
         "name": "Local L2L Scanner Detected",
-        "average_capacity": 9724788,
+        "average_capacity": 9363295,
         "id": 100110,
-        "base_capacity": 9724788
+        "base_capacity": 9363295
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1363",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1135212430660,
         "type": "COMMON",
@@ -843,15 +843,15 @@
         "modification_date": 1267747984460,
         "linked_rule_identifier": null,
         "name": "Remote Scanner Detected",
-        "average_capacity": 3845266,
+        "average_capacity": 2385211,
         "id": 100111,
-        "base_capacity": 3845266
+        "base_capacity": 2385211
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1168",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814924936,
         "type": "COMMON",
@@ -859,15 +859,15 @@
         "modification_date": 1267747984804,
         "linked_rule_identifier": null,
         "name": "Remote Windows Server Scanner",
-        "average_capacity": 4989770,
+        "average_capacity": 4593899,
         "id": 100112,
-        "base_capacity": 4989770
+        "base_capacity": 4593899
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1577",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146813029174,
         "type": "COMMON",
@@ -875,15 +875,15 @@
         "modification_date": 1267747984726,
         "linked_rule_identifier": null,
         "name": "Local L2R RPC Server Scanner",
-        "average_capacity": 5320563,
+        "average_capacity": 5364231,
         "id": 100113,
-        "base_capacity": 5320563
+        "base_capacity": 5364231
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1579",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146813077109,
         "type": "COMMON",
@@ -891,15 +891,15 @@
         "modification_date": 1267747984741,
         "linked_rule_identifier": null,
         "name": "Local L2R Windows Server Scanner",
-        "average_capacity": 9684292,
+        "average_capacity": 8438818,
         "id": 100114,
-        "base_capacity": 9684292
+        "base_capacity": 8438818
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1589",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1132943994842,
         "type": "COMMON",
@@ -907,9 +907,9 @@
         "modification_date": 1267747984288,
         "linked_rule_identifier": null,
         "name": "Local L2R Scanner Detected",
-        "average_capacity": 5647803,
+        "average_capacity": 4607021,
         "id": 100115,
-        "base_capacity": 5647803
+        "base_capacity": 4607021
     },
     {
         "owner": "admin",
@@ -931,7 +931,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1545",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1279138200694,
         "type": "EVENT",
@@ -939,15 +939,15 @@
         "modification_date": 1527702636750,
         "linked_rule_identifier": null,
         "name": "Chained Exploit Followed by Suspicious Events",
-        "average_capacity": 1901393,
+        "average_capacity": 1727264,
         "id": 100117,
-        "base_capacity": 1901393
+        "base_capacity": 1727264
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1290",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1167773315244,
         "type": "EVENT",
@@ -955,15 +955,15 @@
         "modification_date": 1790698903231,
         "linked_rule_identifier": null,
         "name": "Destination Vulnerable to Detected Exploit",
-        "average_capacity": 4163890,
+        "average_capacity": 4450576,
         "id": 100120,
-        "base_capacity": 4163890
+        "base_capacity": 4450576
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1355",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1132769386502,
         "type": "EVENT",
@@ -971,9 +971,9 @@
         "modification_date": 1790698895090,
         "linked_rule_identifier": null,
         "name": "Destination Vulnerable to Detected Exploit on a Different Port",
-        "average_capacity": 4885197,
+        "average_capacity": 4791566,
         "id": 100121,
-        "base_capacity": 4885197
+        "base_capacity": 4791566
     },
     {
         "owner": "admin",
@@ -995,7 +995,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1413",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1152183190362,
         "type": "EVENT",
@@ -1003,15 +1003,15 @@
         "modification_date": 1267747984991,
         "linked_rule_identifier": null,
         "name": "Exploits Events with High Magnitude Become Offenses",
-        "average_capacity": 5593153,
+        "average_capacity": 5444843,
         "id": 100123,
-        "base_capacity": 5593153
+        "base_capacity": 5444843
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1408",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1150980644381,
         "type": "EVENT",
@@ -1019,15 +1019,15 @@
         "modification_date": 1790698903660,
         "linked_rule_identifier": null,
         "name": "Multiple Exploit Types Against Single Destination",
-        "average_capacity": 1329309,
+        "average_capacity": 1351223,
         "id": 100124,
-        "base_capacity": 1329309
+        "base_capacity": 1351223
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1207",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1123777118278,
         "type": "COMMON",
@@ -1035,15 +1035,15 @@
         "modification_date": 1790698903364,
         "linked_rule_identifier": null,
         "name": "FalsePositive: False Positive Rules and Building Blocks",
-        "average_capacity": 6579380,
+        "average_capacity": 7788161,
         "id": 100125,
-        "base_capacity": 6579380
+        "base_capacity": 7788161
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1014",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268246324445,
         "type": "COMMON",
@@ -1051,15 +1051,15 @@
         "modification_date": 1268769246150,
         "linked_rule_identifier": null,
         "name": "Context is Local to Local",
-        "average_capacity": 7321180,
+        "average_capacity": 6130456,
         "id": 100215,
-        "base_capacity": 7321180
+        "base_capacity": 6130456
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1004",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268247485739,
         "type": "COMMON",
@@ -1067,15 +1067,15 @@
         "modification_date": 1268247640954,
         "linked_rule_identifier": null,
         "name": "Context is Local to Remote",
-        "average_capacity": 6289703,
+        "average_capacity": 5352745,
         "id": 100216,
-        "base_capacity": 6289703
+        "base_capacity": 5352745
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1001",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268247511279,
         "type": "COMMON",
@@ -1083,15 +1083,15 @@
         "modification_date": 1268247655272,
         "linked_rule_identifier": null,
         "name": "Context is Remote to Local",
-        "average_capacity": 5626195,
+        "average_capacity": 5163688,
         "id": 100217,
-        "base_capacity": 5626195
+        "base_capacity": 5163688
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1006",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249181476,
         "type": "COMMON",
@@ -1099,15 +1099,15 @@
         "modification_date": 1268249247218,
         "linked_rule_identifier": null,
         "name": "Destination Asset Exists",
-        "average_capacity": 3300003,
+        "average_capacity": 3196726,
         "id": 100218,
-        "base_capacity": 3300003
+        "base_capacity": 3196726
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1012",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249869051,
         "type": "COMMON",
@@ -1115,15 +1115,15 @@
         "modification_date": 1268249869047,
         "linked_rule_identifier": null,
         "name": "Destination Asset Port is Open",
-        "average_capacity": 2596391,
+        "average_capacity": 2306219,
         "id": 100219,
-        "base_capacity": 2596391
+        "base_capacity": 2306219
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1010",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249606318,
         "type": "COMMON",
@@ -1131,15 +1131,15 @@
         "modification_date": 1790698903866,
         "linked_rule_identifier": null,
         "name": "Destination Asset Weight is High",
-        "average_capacity": 3802281,
+        "average_capacity": 1958940,
         "id": 100220,
-        "base_capacity": 3802281
+        "base_capacity": 1958940
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1008",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249628895,
         "type": "COMMON",
@@ -1147,15 +1147,15 @@
         "modification_date": 1790698897118,
         "linked_rule_identifier": null,
         "name": "Destination Asset Weight is Low",
-        "average_capacity": 4504301,
+        "average_capacity": 3903657,
         "id": 100221,
-        "base_capacity": 4504301
+        "base_capacity": 3903657
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1011",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249657242,
         "type": "COMMON",
@@ -1163,15 +1163,15 @@
         "modification_date": 1790698903984,
         "linked_rule_identifier": null,
         "name": "Destination Asset Weight is Medium",
-        "average_capacity": 1751712,
+        "average_capacity": 1605755,
         "id": 100222,
-        "base_capacity": 1751712
+        "base_capacity": 1605755
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1013",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268250249895,
         "type": "COMMON",
@@ -1179,15 +1179,15 @@
         "modification_date": 1268250249892,
         "linked_rule_identifier": null,
         "name": "Source Address is a Bogon IP",
-        "average_capacity": 1272297,
+        "average_capacity": 1336237,
         "id": 100223,
-        "base_capacity": 1272297
+        "base_capacity": 1336237
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1009",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268250072316,
         "type": "COMMON",
@@ -1195,15 +1195,15 @@
         "modification_date": 1268250072312,
         "linked_rule_identifier": null,
         "name": "Source Address is a Known Questionable IP",
-        "average_capacity": 964701,
+        "average_capacity": 853286,
         "id": 100224,
-        "base_capacity": 964701
+        "base_capacity": 853286
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1002",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249145252,
         "type": "COMMON",
@@ -1211,15 +1211,15 @@
         "modification_date": 1268249145249,
         "linked_rule_identifier": null,
         "name": "Source Asset Exists",
-        "average_capacity": 3478139,
+        "average_capacity": 2017267,
         "id": 100225,
-        "base_capacity": 3478139
+        "base_capacity": 2017267
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1007",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249468871,
         "type": "COMMON",
@@ -1227,15 +1227,15 @@
         "modification_date": 1790698898649,
         "linked_rule_identifier": null,
         "name": "Source Asset Weight is High",
-        "average_capacity": 4820903,
+        "average_capacity": 4649216,
         "id": 100226,
-        "base_capacity": 4820903
+        "base_capacity": 4649216
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1003",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249422096,
         "type": "COMMON",
@@ -1243,15 +1243,15 @@
         "modification_date": 1790698905317,
         "linked_rule_identifier": null,
         "name": "Source Asset Weight is Low",
-        "average_capacity": 859556,
+        "average_capacity": 4199916,
         "id": 100227,
-        "base_capacity": 859556
+        "base_capacity": 4199916
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1005",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1268249446489,
         "type": "COMMON",
@@ -1259,9 +1259,9 @@
         "modification_date": 1790698901570,
         "linked_rule_identifier": null,
         "name": "Source Asset Weight is Medium",
-        "average_capacity": 1555500,
+        "average_capacity": 1231633,
         "id": 100228,
-        "base_capacity": 1555500
+        "base_capacity": 1231633
     },
     {
         "owner": "admin",
@@ -1411,7 +1411,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1476",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1273157551791,
         "type": "COMMON",
@@ -1419,9 +1419,9 @@
         "modification_date": 1358136000000,
         "linked_rule_identifier": null,
         "name": "Possible Local IRC Server",
-        "average_capacity": 5542929,
+        "average_capacity": 5383290,
         "id": 100241,
-        "base_capacity": 5542929
+        "base_capacity": 5383290
     },
     {
         "owner": "admin",
@@ -1459,7 +1459,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1198",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1192392336800,
         "type": "EVENT",
@@ -1467,15 +1467,15 @@
         "modification_date": 1267747985320,
         "linked_rule_identifier": null,
         "name": "Excessive Firewall Denies from Remote Host",
-        "average_capacity": 1912265,
+        "average_capacity": 1777872,
         "id": 100248,
-        "base_capacity": 1912265
+        "base_capacity": 1777872
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1269",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1151334562002,
         "type": "EVENT",
@@ -1483,15 +1483,15 @@
         "modification_date": 1492004324560,
         "linked_rule_identifier": null,
         "name": "Increase Magnitude of High Rate Scans",
-        "average_capacity": 3423836,
+        "average_capacity": 3259239,
         "id": 100249,
-        "base_capacity": 3423836
+        "base_capacity": 3259239
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1268",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1151334369177,
         "type": "EVENT",
@@ -1499,9 +1499,9 @@
         "modification_date": 1492004324560,
         "linked_rule_identifier": null,
         "name": "Increase Magnitude of Medium Rate Scans",
-        "average_capacity": 2486510,
+        "average_capacity": 3689084,
         "id": 100250,
-        "base_capacity": 2486510
+        "base_capacity": 3689084
     },
     {
         "owner": "admin",
@@ -1699,7 +1699,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-500",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1217009466305,
         "type": "EVENT",
@@ -1707,15 +1707,15 @@
         "modification_date": 1790698949440,
         "linked_rule_identifier": null,
         "name": "System: Notification",
-        "average_capacity": 3425830,
+        "average_capacity": 1745779,
         "id": 100271,
-        "base_capacity": 3425830
+        "base_capacity": 1745779
     },
     {
         "owner": "admin",
         "identifier": "a2e8a903-2cb7-4271-9720-eb8d9f218183",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1438301690760,
         "type": "EVENT",
@@ -1723,9 +1723,9 @@
         "modification_date": 1790698947835,
         "linked_rule_identifier": null,
         "name": "Load Basic Building Blocks",
-        "average_capacity": 1026862,
+        "average_capacity": 827691,
         "id": 100272,
-        "base_capacity": 1026862
+        "base_capacity": 827691
     },
     {
         "owner": "admin",
@@ -1747,7 +1747,7 @@
         "owner": "admin",
         "identifier": "SYSTEM-1166",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814888885,
         "type": "COMMON",
@@ -1755,15 +1755,15 @@
         "modification_date": 1790698905022,
         "linked_rule_identifier": null,
         "name": "Remote SSH Server Scanner",
-        "average_capacity": 5406282,
+        "average_capacity": 5825808,
         "id": 100306,
-        "base_capacity": 5406282
+        "base_capacity": 5825808
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1164",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814852333,
         "type": "COMMON",
@@ -1771,15 +1771,15 @@
         "modification_date": 1267747984788,
         "linked_rule_identifier": null,
         "name": "Remote Proxy Server Scanner",
-        "average_capacity": 4709428,
+        "average_capacity": 5366246,
         "id": 100307,
-        "base_capacity": 4709428
+        "base_capacity": 5366246
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1165",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814875112,
         "type": "COMMON",
@@ -1787,15 +1787,15 @@
         "modification_date": 1267747984804,
         "linked_rule_identifier": null,
         "name": "Remote RPC Server Scanner",
-        "average_capacity": 6199243,
+        "average_capacity": 4795243,
         "id": 100308,
-        "base_capacity": 6199243
+        "base_capacity": 4795243
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1162",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814781707,
         "type": "COMMON",
@@ -1803,15 +1803,15 @@
         "modification_date": 1267747984773,
         "linked_rule_identifier": null,
         "name": "Remote LDAP Server Scanner",
-        "average_capacity": 5222204,
+        "average_capacity": 5686018,
         "id": 100309,
-        "base_capacity": 5222204
+        "base_capacity": 5686018
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1161",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814759768,
         "type": "COMMON",
@@ -1819,15 +1819,15 @@
         "modification_date": 1267747984773,
         "linked_rule_identifier": null,
         "name": "Remote IRC Server Scanner",
-        "average_capacity": 5252100,
+        "average_capacity": 4843787,
         "id": 100310,
-        "base_capacity": 5252100
+        "base_capacity": 4843787
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1189",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814711533,
         "type": "COMMON",
@@ -1835,15 +1835,15 @@
         "modification_date": 1267747984757,
         "linked_rule_identifier": null,
         "name": "Remote FTP Scanner",
-        "average_capacity": 5781683,
+        "average_capacity": 6129328,
         "id": 100311,
-        "base_capacity": 5781683
+        "base_capacity": 6129328
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1159",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146814518747,
         "type": "COMMON",
@@ -1851,15 +1851,15 @@
         "modification_date": 1267747984741,
         "linked_rule_identifier": null,
         "name": "Remote Database Scanner",
-        "average_capacity": 5910514,
+        "average_capacity": 5029675,
         "id": 100312,
-        "base_capacity": 5910514
+        "base_capacity": 5029675
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1191",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146813055163,
         "type": "COMMON",
@@ -1867,15 +1867,15 @@
         "modification_date": 1267747984726,
         "linked_rule_identifier": null,
         "name": "Local L2L SSH Server Scanner",
-        "average_capacity": 9074410,
+        "average_capacity": 9022827,
         "id": 100313,
-        "base_capacity": 9074410
+        "base_capacity": 9022827
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1196",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812927049,
         "type": "COMMON",
@@ -1883,15 +1883,15 @@
         "modification_date": 1267747984695,
         "linked_rule_identifier": null,
         "name": "Local L2L IRC Server Scanner",
-        "average_capacity": 7613247,
+        "average_capacity": 2648375,
         "id": 100314,
-        "base_capacity": 7613247
+        "base_capacity": 2648375
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1397",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812861048,
         "type": "COMMON",
@@ -1899,15 +1899,15 @@
         "modification_date": 1267747984679,
         "linked_rule_identifier": null,
         "name": "Local L2L FTP Scanner",
-        "average_capacity": 7466029,
+        "average_capacity": 7757350,
         "id": 100315,
-        "base_capacity": 7466029
+        "base_capacity": 7757350
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1188",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812107068,
         "type": "COMMON",
@@ -1915,15 +1915,15 @@
         "modification_date": 1267747984663,
         "linked_rule_identifier": null,
         "name": "Local L2L Database Scanner",
-        "average_capacity": 7668123,
+        "average_capacity": 7573462,
         "id": 100316,
-        "base_capacity": 7668123
+        "base_capacity": 7573462
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1400",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812962422,
         "type": "COMMON",
@@ -1931,15 +1931,15 @@
         "modification_date": 1267747984695,
         "linked_rule_identifier": null,
         "name": "Local L2L LDAP Server Scanner",
-        "average_capacity": 7537499,
+        "average_capacity": 6763611,
         "id": 100317,
-        "base_capacity": 7537499
+        "base_capacity": 6763611
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1586",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146813055163,
         "type": "COMMON",
@@ -1947,15 +1947,15 @@
         "modification_date": 1267747984726,
         "linked_rule_identifier": null,
         "name": "Local L2R SSH Server Scanner",
-        "average_capacity": 7089684,
+        "average_capacity": 6692096,
         "id": 100318,
-        "base_capacity": 7089684
+        "base_capacity": 6692096
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1587",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812927049,
         "type": "COMMON",
@@ -1963,15 +1963,15 @@
         "modification_date": 1267747984695,
         "linked_rule_identifier": null,
         "name": "Local L2R IRC Server Scanner",
-        "average_capacity": 784535,
+        "average_capacity": 573075,
         "id": 100319,
-        "base_capacity": 784535
+        "base_capacity": 573075
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1592",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812861048,
         "type": "COMMON",
@@ -1979,15 +1979,15 @@
         "modification_date": 1267747984679,
         "linked_rule_identifier": null,
         "name": "Local L2R FTP Scanner",
-        "average_capacity": 9252405,
+        "average_capacity": 9487666,
         "id": 100320,
-        "base_capacity": 9252405
+        "base_capacity": 9487666
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1585",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812107068,
         "type": "COMMON",
@@ -1995,15 +1995,15 @@
         "modification_date": 1267747984663,
         "linked_rule_identifier": null,
         "name": "Local L2R Database Scanner",
-        "average_capacity": 9173470,
+        "average_capacity": 9597850,
         "id": 100321,
-        "base_capacity": 9173470
+        "base_capacity": 9597850
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1595",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1146812962422,
         "type": "COMMON",
@@ -2011,15 +2011,15 @@
         "modification_date": 1267747984695,
         "linked_rule_identifier": null,
         "name": "Local L2R LDAP Server Scanner",
-        "average_capacity": 6815238,
+        "average_capacity": 7432733,
         "id": 100322,
-        "base_capacity": 6815238
+        "base_capacity": 7432733
     },
     {
         "owner": "admin",
         "identifier": "08c97199-0f21-4e65-b63d-9dd9cc0161b0",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1440696183560,
         "type": "EVENT",
@@ -2027,15 +2027,15 @@
         "modification_date": 1790698949884,
         "linked_rule_identifier": null,
         "name": "First-Time User Access to Critical Asset",
-        "average_capacity": 5641430,
+        "average_capacity": 4480688,
         "id": 100323,
-        "base_capacity": 5641430
+        "base_capacity": 4480688
     },
     {
         "owner": "admin",
         "identifier": "SYSTEM-1567",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1280932510492,
         "type": "EVENT",
@@ -2043,9 +2043,9 @@
         "modification_date": 1790698949253,
         "linked_rule_identifier": null,
         "name": "Malware or Virus Clean Failed",
-        "average_capacity": 3312355,
+        "average_capacity": 2708999,
         "id": 100324,
-        "base_capacity": 3312355
+        "base_capacity": 2708999
     },
     {
         "owner": "admin",
@@ -2163,7 +2163,7 @@
         "owner": "admin",
         "identifier": "48d9d1aa-97b5-4739-b1fe-bff95db74ede",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1502666846370,
         "type": "EVENT",
@@ -2171,9 +2171,9 @@
         "modification_date": 1790702358166,
         "linked_rule_identifier": null,
         "name": "Unusual Parent for a System Process",
-        "average_capacity": 3675930,
+        "average_capacity": 3755868,
         "id": 100355,
-        "base_capacity": 3675930
+        "base_capacity": 3755868
     },
     {
         "owner": "admin",
@@ -2195,7 +2195,7 @@
         "owner": "admin",
         "identifier": "4bd84813-a919-4250-b616-7e7b766dae9b",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1501677119720,
         "type": "EVENT",
@@ -2203,9 +2203,9 @@
         "modification_date": 1790702358748,
         "linked_rule_identifier": null,
         "name": "Executable Loaded from Temp Directory",
-        "average_capacity": 3323915,
+        "average_capacity": 3442933,
         "id": 100357,
-        "base_capacity": 3323915
+        "base_capacity": 3442933
     },
     {
         "owner": "admin",
@@ -2307,7 +2307,7 @@
         "owner": "admin",
         "identifier": "279ea028-0346-410f-9c22-3ae8773be689",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1503773844060,
         "type": "EVENT",
@@ -2315,9 +2315,9 @@
         "modification_date": 1790702360553,
         "linked_rule_identifier": null,
         "name": "Mimikatz IMP Hash Observed",
-        "average_capacity": 3266159,
+        "average_capacity": 3163956,
         "id": 100366,
-        "base_capacity": 3266159
+        "base_capacity": 3163956
     },
     {
         "owner": "admin",
@@ -2339,7 +2339,7 @@
         "owner": "admin",
         "identifier": "bd3b3315-d628-43d5-9eaf-161acc1af4ae",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1507901329090,
         "type": "EVENT",
@@ -2347,15 +2347,15 @@
         "modification_date": 1790702359892,
         "linked_rule_identifier": null,
         "name": "Lsass Process Connected to a Pipe",
-        "average_capacity": 3705350,
+        "average_capacity": 1942879,
         "id": 100368,
-        "base_capacity": 3705350
+        "base_capacity": 1942879
     },
     {
         "owner": "admin",
         "identifier": "a8eaede7-d733-4f42-8d03-b8cd353f72d2",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1507929298590,
         "type": "EVENT",
@@ -2363,15 +2363,15 @@
         "modification_date": 1790702356468,
         "linked_rule_identifier": null,
         "name": "Unsigned Executable Loaded In lsass",
-        "average_capacity": 3159158,
+        "average_capacity": 3312355,
         "id": 100369,
-        "base_capacity": 3159158
+        "base_capacity": 3312355
     },
     {
         "owner": "admin",
         "identifier": "f81aeecc-49f9-48c1-9914-9f48f176cb84",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1502667258630,
         "type": "EVENT",
@@ -2379,15 +2379,15 @@
         "modification_date": 1790702358706,
         "linked_rule_identifier": null,
         "name": "Shadow Copies Deletion",
-        "average_capacity": 3415650,
+        "average_capacity": 1985387,
         "id": 100370,
-        "base_capacity": 3415650
+        "base_capacity": 1985387
     },
     {
         "owner": "admin",
         "identifier": "b2419abd-5eef-496c-a15d-0011590e73a8",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1503011503330,
         "type": "EVENT",
@@ -2395,9 +2395,9 @@
         "modification_date": 1790702360305,
         "linked_rule_identifier": null,
         "name": "Excessive Use of SC Command",
-        "average_capacity": 3490035,
+        "average_capacity": 2682835,
         "id": 100371,
-        "base_capacity": 3490035
+        "base_capacity": 2682835
     },
     {
         "owner": "admin",
@@ -2515,7 +2515,7 @@
         "owner": "admin",
         "identifier": "39b21617-0d64-4461-9cf4-e48612d6ba40",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1503020630170,
         "type": "EVENT",
@@ -2523,9 +2523,9 @@
         "modification_date": 1790702360330,
         "linked_rule_identifier": null,
         "name": "Process Launched from Unusual Directory",
-        "average_capacity": 3151492,
+        "average_capacity": 2989894,
         "id": 100379,
-        "base_capacity": 3151492
+        "base_capacity": 2989894
     },
     {
         "owner": "admin",
@@ -2547,7 +2547,7 @@
         "owner": "admin",
         "identifier": "2a3f7ced-434f-4bdc-bcde-58e161edc5c7",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1503022497650,
         "type": "EVENT",
@@ -2555,15 +2555,15 @@
         "modification_date": 1790702357777,
         "linked_rule_identifier": null,
         "name": "Excessive System Tools Usage from a Single Host",
-        "average_capacity": 3055861,
+        "average_capacity": 2561409,
         "id": 100381,
-        "base_capacity": 3055861
+        "base_capacity": 2561409
     },
     {
         "owner": "admin",
         "identifier": "3b6479e4-ebbc-4049-8340-98ebeffb24d8",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1502667347310,
         "type": "EVENT",
@@ -2571,15 +2571,15 @@
         "modification_date": 1790702358419,
         "linked_rule_identifier": null,
         "name": "Rundll32 with qwerty Argument Usage",
-        "average_capacity": 3382149,
+        "average_capacity": 3450655,
         "id": 100382,
-        "base_capacity": 3382149
+        "base_capacity": 3450655
     },
     {
         "owner": "admin",
         "identifier": "904ad1ac-aea9-4332-9c5f-b2aeab756bd2",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1502666510520,
         "type": "EVENT",
@@ -2587,9 +2587,9 @@
         "modification_date": 1790702360845,
         "linked_rule_identifier": null,
         "name": "System Process Launched from Unusual Directory",
-        "average_capacity": 3515927,
+        "average_capacity": 3641262,
         "id": 100383,
-        "base_capacity": 3515927
+        "base_capacity": 3641262
     },
     {
         "owner": "admin",
@@ -2611,7 +2611,7 @@
         "owner": "admin",
         "identifier": "33b20a6a-be8f-465f-a7f8-4795026e6c93",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1502926897650,
         "type": "EVENT",
@@ -2619,15 +2619,15 @@
         "modification_date": 1790702361047,
         "linked_rule_identifier": null,
         "name": "Potential Keylogger Detected",
-        "average_capacity": 3180256,
+        "average_capacity": 3518525,
         "id": 100387,
-        "base_capacity": 3180256
+        "base_capacity": 3518525
     },
     {
         "owner": "admin",
         "identifier": "ccc1185d-4fe8-446a-8522-da7a47b3b173",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1503171783590,
         "type": "EVENT",
@@ -2635,15 +2635,15 @@
         "modification_date": 1790702360763,
         "linked_rule_identifier": null,
         "name": "Service Binary Path Update Followed by Remote Thread Creation",
-        "average_capacity": 3226326,
+        "average_capacity": 3091285,
         "id": 100388,
-        "base_capacity": 3226326
+        "base_capacity": 3091285
     },
     {
         "owner": "admin",
         "identifier": "bc5b2ea5-ce77-466c-9a7f-dc6252d8094a",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1501677719610,
         "type": "EVENT",
@@ -2651,15 +2651,15 @@
         "modification_date": 1790702355844,
         "linked_rule_identifier": null,
         "name": "Process Launched from a Temp Directory",
-        "average_capacity": 3205539,
+        "average_capacity": 3451846,
         "id": 100390,
-        "base_capacity": 3205539
+        "base_capacity": 3451846
     },
     {
         "owner": "admin",
         "identifier": "563eb284-3110-4428-b896-96391ec00bbb",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1502667212340,
         "type": "EVENT",
@@ -2667,15 +2667,15 @@
         "modification_date": 1790702358574,
         "linked_rule_identifier": null,
         "name": "Suspicious Svchost Process",
-        "average_capacity": 2585248,
+        "average_capacity": 2261062,
         "id": 100391,
-        "base_capacity": 2585248
+        "base_capacity": 2261062
     },
     {
         "owner": "admin",
         "identifier": "50800f7b-f488-4c61-b0b7-bc472948f21a",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1502921196400,
         "type": "EVENT",
@@ -2683,9 +2683,9 @@
         "modification_date": 1790702356118,
         "linked_rule_identifier": null,
         "name": "PsExec Process Masquerading",
-        "average_capacity": 3581790,
+        "average_capacity": 3562649,
         "id": 100392,
-        "base_capacity": 3581790
+        "base_capacity": 3562649
     },
     {
         "owner": "admin",
@@ -2707,7 +2707,7 @@
         "owner": "admin",
         "identifier": "79100486-4e3f-4b97-809c-98d34c8c8ba0",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1501708474650,
         "type": "EVENT",
@@ -2715,9 +2715,9 @@
         "modification_date": 1790702359415,
         "linked_rule_identifier": null,
         "name": "Thread Creation by a Process Launched from a Temp Directory",
-        "average_capacity": 3184916,
+        "average_capacity": 2628120,
         "id": 100394,
-        "base_capacity": 3184916
+        "base_capacity": 2628120
     },
     {
         "owner": "admin",
@@ -2739,7 +2739,7 @@
         "owner": "admin",
         "identifier": "088b4667-7e3b-4a51-9b0f-d785c74c1cd6",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1503010630490,
         "type": "EVENT",
@@ -2747,15 +2747,15 @@
         "modification_date": 1790702357233,
         "linked_rule_identifier": null,
         "name": "Detected an Unquoted Service Binary Path with Spaces",
-        "average_capacity": 3532445,
+        "average_capacity": 3387648,
         "id": 100396,
-        "base_capacity": 3532445
+        "base_capacity": 3387648
     },
     {
         "owner": "admin",
         "identifier": "03ea0946-9a67-4ea0-9234-71ef50185fe1",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1503013087270,
         "type": "EVENT",
@@ -2763,9 +2763,9 @@
         "modification_date": 1790702355937,
         "linked_rule_identifier": null,
         "name": "Service Binary Path Update Followed by User or Group Modification",
-        "average_capacity": 3431355,
+        "average_capacity": 3448275,
         "id": 100397,
-        "base_capacity": 3431355
+        "base_capacity": 3448275
     },
     {
         "owner": "admin",
@@ -2803,7 +2803,7 @@
         "owner": "admin",
         "identifier": "edb708c4-54ce-4a3c-a854-9c03a5e0e803",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505080044390,
         "type": "EVENT",
@@ -2811,15 +2811,15 @@
         "modification_date": 1790702360020,
         "linked_rule_identifier": null,
         "name": "Administrative Share Accessed from a Compromised Host",
-        "average_capacity": 3426887,
+        "average_capacity": 3417284,
         "id": 100401,
-        "base_capacity": 3426887
+        "base_capacity": 3417284
     },
     {
         "owner": "admin",
         "identifier": "575ba560-ba24-4d23-90ff-c1c609480cf1",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505260269590,
         "type": "EVENT",
@@ -2827,15 +2827,15 @@
         "modification_date": 1790702357039,
         "linked_rule_identifier": null,
         "name": "Network Share Added to a Compromised Host",
-        "average_capacity": 2762354,
+        "average_capacity": 2665316,
         "id": 100402,
-        "base_capacity": 2762354
+        "base_capacity": 2665316
     },
     {
         "owner": "admin",
         "identifier": "62e8415a-2543-4216-968c-491961b42c12",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505076754080,
         "type": "EVENT",
@@ -2843,9 +2843,9 @@
         "modification_date": 1790702360642,
         "linked_rule_identifier": null,
         "name": "PsExec Process Observed on a Compromised Host",
-        "average_capacity": 3751219,
+        "average_capacity": 3505205,
         "id": 100403,
-        "base_capacity": 3751219
+        "base_capacity": 3505205
     },
     {
         "owner": "admin",
@@ -2867,7 +2867,7 @@
         "owner": "admin",
         "identifier": "2330246b-6d26-480b-bfa9-82611f17b2de",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505260506080,
         "type": "EVENT",
@@ -2875,9 +2875,9 @@
         "modification_date": 1790702356295,
         "linked_rule_identifier": null,
         "name": "Excessive Network Share Access Failures from a Compromised Host",
-        "average_capacity": 2201624,
+        "average_capacity": 3617945,
         "id": 100406,
-        "base_capacity": 2201624
+        "base_capacity": 3617945
     },
     {
         "owner": "admin",
@@ -2899,7 +2899,7 @@
         "owner": "admin",
         "identifier": "01337e1e-0aab-44cc-95d1-bf6bc93752e7",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505260000820,
         "type": "EVENT",
@@ -2907,15 +2907,15 @@
         "modification_date": 1790702359205,
         "linked_rule_identifier": null,
         "name": "Network Share Accessed from a Compromised Host",
-        "average_capacity": 3807783,
+        "average_capacity": 3985016,
         "id": 100408,
-        "base_capacity": 3807783
+        "base_capacity": 3985016
     },
     {
         "owner": "admin",
         "identifier": "af741462-5abd-4368-a1db-a4619cdc2c58",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505258510660,
         "type": "EVENT",
@@ -2923,15 +2923,15 @@
         "modification_date": 1790702359712,
         "linked_rule_identifier": null,
         "name": "Remote Process Execution on Multiple Hosts",
-        "average_capacity": 3133028,
+        "average_capacity": 3536818,
         "id": 100409,
-        "base_capacity": 3133028
+        "base_capacity": 3536818
     },
     {
         "owner": "admin",
         "identifier": "f096ed69-7167-4ed9-9110-2aca1c17a8a1",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505078433550,
         "type": "EVENT",
@@ -2939,15 +2939,15 @@
         "modification_date": 1790702355478,
         "linked_rule_identifier": null,
         "name": "Process Launched from a Shared Folder",
-        "average_capacity": 4184275,
+        "average_capacity": 3644979,
         "id": 100410,
-        "base_capacity": 4184275
+        "base_capacity": 3644979
     },
     {
         "owner": "admin",
         "identifier": "080b2f4c-374c-45a3-aa46-8c0c4becf01d",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505079231170,
         "type": "EVENT",
@@ -2955,15 +2955,15 @@
         "modification_date": 1790702357147,
         "linked_rule_identifier": null,
         "name": "Thread Creation by a Process Launched from a Shared Folder",
-        "average_capacity": 2154754,
+        "average_capacity": 3368818,
         "id": 100411,
-        "base_capacity": 2154754
+        "base_capacity": 3368818
     },
     {
         "owner": "admin",
         "identifier": "f4eef041-8def-4592-966d-79e4400294bf",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505049750220,
         "type": "EVENT",
@@ -2971,15 +2971,15 @@
         "modification_date": 1790702358248,
         "linked_rule_identifier": null,
         "name": "Malicious Service Installed",
-        "average_capacity": 3820585,
+        "average_capacity": 4025926,
         "id": 100412,
-        "base_capacity": 3820585
+        "base_capacity": 4025926
     },
     {
         "owner": "admin",
         "identifier": "3b8ff4da-e5f1-453d-81e1-13dbf1adbb85",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505476489200,
         "type": "EVENT",
@@ -2987,15 +2987,15 @@
         "modification_date": 1790702360682,
         "linked_rule_identifier": null,
         "name": "Excessive Administrative Share Access Failures from the Same Host",
-        "average_capacity": 3305566,
+        "average_capacity": 3129400,
         "id": 100413,
-        "base_capacity": 3305566
+        "base_capacity": 3129400
     },
     {
         "owner": "admin",
         "identifier": "e6f3ba63-a42d-4760-9a24-74306f461d58",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505047734850,
         "type": "EVENT",
@@ -3003,15 +3003,15 @@
         "modification_date": 1790702361093,
         "linked_rule_identifier": null,
         "name": "PsExec Process Observed",
-        "average_capacity": 3822922,
+        "average_capacity": 4085467,
         "id": 100414,
-        "base_capacity": 3822922
+        "base_capacity": 4085467
     },
     {
         "owner": "admin",
         "identifier": "9c142a4a-ade5-418f-9e72-1e17d6591096",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505072053650,
         "type": "EVENT",
@@ -3019,15 +3019,15 @@
         "modification_date": 1790702360794,
         "linked_rule_identifier": null,
         "name": "Hidden Network Share Added",
-        "average_capacity": 3843049,
+        "average_capacity": 3321155,
         "id": 100415,
-        "base_capacity": 3843049
+        "base_capacity": 3321155
     },
     {
         "owner": "admin",
         "identifier": "b9c113f5-db2b-4fdd-8596-2854b611691a",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505583790600,
         "type": "EVENT",
@@ -3035,15 +3035,15 @@
         "modification_date": 1790702360522,
         "linked_rule_identifier": null,
         "name": "Powershell Process Observed on a Compromised Host",
-        "average_capacity": 3742374,
+        "average_capacity": 3519515,
         "id": 100417,
-        "base_capacity": 3742374
+        "base_capacity": 3519515
     },
     {
         "owner": "admin",
         "identifier": "a2d7fbfd-65da-44cd-ac56-112fd9f9fe2a",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505584155220,
         "type": "EVENT",
@@ -3051,9 +3051,9 @@
         "modification_date": 1790956455264,
         "linked_rule_identifier": "af71c8ac-0a1b-43af-b8e6-33f77c19bd24",
         "name": "Powershell Process Observed",
-        "average_capacity": 3960709,
+        "average_capacity": 3689628,
         "id": 100418,
-        "base_capacity": 3960709
+        "base_capacity": 3689628
     },
     {
         "owner": "admin",
@@ -3075,7 +3075,7 @@
         "owner": "admin",
         "identifier": "d8331e62-421d-47cb-a2d5-dbe21d9da87d",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505589109460,
         "type": "EVENT",
@@ -3083,15 +3083,15 @@
         "modification_date": 1790702361146,
         "linked_rule_identifier": null,
         "name": "Scheduled Task Created on a Compromised Host",
-        "average_capacity": 2453325,
+        "average_capacity": 3835973,
         "id": 100422,
-        "base_capacity": 2453325
+        "base_capacity": 3835973
     },
     {
         "owner": "admin",
         "identifier": "9af82ddf-bcf9-4f98-91fa-7ca690198f56",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505589284000,
         "type": "EVENT",
@@ -3099,15 +3099,15 @@
         "modification_date": 1790702358027,
         "linked_rule_identifier": null,
         "name": "Service Installed on a Compromised Host",
-        "average_capacity": 3408664,
+        "average_capacity": 3155669,
         "id": 100423,
-        "base_capacity": 3408664
+        "base_capacity": 3155669
     },
     {
         "owner": "admin",
         "identifier": "074de08b-e5d8-4069-a0fe-24654e745efe",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505049329730,
         "type": "EVENT",
@@ -3115,15 +3115,15 @@
         "modification_date": 1790702359836,
         "linked_rule_identifier": null,
         "name": "Service Configured to Use a Pipe",
-        "average_capacity": 849552,
+        "average_capacity": 4134623,
         "id": 100424,
-        "base_capacity": 849552
+        "base_capacity": 4134623
     },
     {
         "owner": "admin",
         "identifier": "64fd3690-d8eb-4ea3-b4a4-5e58bf69bec6",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1505678167110,
         "type": "EVENT",
@@ -3131,9 +3131,9 @@
         "modification_date": 1790702357474,
         "linked_rule_identifier": null,
         "name": "Unsigned Driver Loaded In Windows Kernel",
-        "average_capacity": 1915965,
+        "average_capacity": 2667093,
         "id": 100425,
-        "base_capacity": 1915965
+        "base_capacity": 2667093
     },
     {
         "owner": "admin",
@@ -3155,7 +3155,7 @@
         "owner": "admin",
         "identifier": "a88e00f9-c56a-4008-95be-6d0cfa56ebbf",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "SYSTEM",
         "creation_date": 1507901892720,
         "type": "EVENT",
@@ -3163,9 +3163,9 @@
         "modification_date": 1790702359973,
         "linked_rule_identifier": null,
         "name": "Powershell Script Created by a Remote Management Service",
-        "average_capacity": 3142875,
+        "average_capacity": 3136566,
         "id": 100427,
-        "base_capacity": 3142875
+        "base_capacity": 3136566
     },
     {
         "owner": "admin",
@@ -3203,17 +3203,17 @@
         "owner": "admin",
         "identifier": "02a86396-1dec-4259-9905-4aad6e83f873",
         "base_host_id": 53,
-        "capacity_timestamp": 1790970520049,
+        "capacity_timestamp": 1791056966902,
         "origin": "USER",
         "creation_date": 1790931599419,
         "type": "EVENT",
         "enabled": true,
-        "modification_date": 1790970571060,
+        "modification_date": 1790970784118,
         "linked_rule_identifier": null,
         "name": "Rule 1: Brute Force Attack Detected",
-        "average_capacity": 3169471,
+        "average_capacity": 2504382,
         "id": 100479,
-        "base_capacity": 3169471
+        "base_capacity": 2504382
     },
     {
         "owner": "admin",
@@ -3229,6 +3229,22 @@
         "name": "Powershell Process Observed",
         "average_capacity": null,
         "id": 100481,
+        "base_capacity": null
+    },
+    {
+        "owner": "admin",
+        "identifier": "183b4b82-1dcb-42d4-b7d7-2d3c654c4d15",
+        "base_host_id": null,
+        "capacity_timestamp": null,
+        "origin": "USER",
+        "creation_date": 1791057024647,
+        "type": "EVENT",
+        "enabled": true,
+        "modification_date": 1791057024647,
+        "linked_rule_identifier": null,
+        "name": "Rule 2: New Administrator User Created",
+        "average_capacity": null,
+        "id": 100482,
         "base_capacity": null
     }
 ]
