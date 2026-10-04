@@ -1,0 +1,8 @@
+{
+  "name": "QR_Rule_03: Privilege Escalation - Added to Domain Admins",
+  "enabled": true,
+  "description": "Sıravi hesabın Domain Admins kimi kritik qruplara əlavə edilməsi cəhdi.",
+  "severity": 9,
+  "credibility": 8,
+  "risk": 9
+}
