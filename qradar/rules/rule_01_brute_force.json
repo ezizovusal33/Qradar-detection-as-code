@@ -1,0 +1,8 @@
+{
+  "name": "QR_Rule_01: Password Brute-Force & Account Lockout",
+  "enabled": true,
+  "description": "Eyni menbeden 5 deqiqe icinde 5+ ugursuz giris (4625) ve ya hesabin kilidlenmesi (4740).",
+  "severity": 8,
+  "accumulator_enabled": true,
+  "response_custom_action_id": -1
+}
