@@ -1,0 +1,9 @@
+{
+  "name": "QR_Rule_10: Ransomware Mass File Encryption (.locked)",
+  "enabled": true,
+  "description": "Qısa zaman kəsiyində kütləvi fayl modifikasiyası və .locked / .crypted uzantılarının yaranması.",
+  "severity": 10,
+  "credibility": 9,
+  "risk": 10,
+  "accumulator_enabled": true
+}
