@@ -1,7 +1,7 @@
 {
   "name": "QR_Rule_09: HoneyToken - Access to Canary Account",
   "enabled": true,
-  "description": "Heç vaxt istifadə olunmaması lazım olan tələ hesabına (HoneyToken) giriş cəhdi.",
+  "description": "Heç vaxt istifadə olunmaması lazım olan tələ hesabına (HoneyToken) giriş cəhdi",
   "severity": 10,
   "credibility": 10,
   "risk": 10
