@@ -1,0 +1,9 @@
+{
+  "name": "QR_Rule_01: Brute Force Attack Detection",
+  "enabled": true,
+  "description": "Eyni menbeden 5 deqiqe erzinde 5+ ugursuz giris (4625) ve ya hesab kilidlenmesi askarlanir.",
+  "severity": 8,
+  "credibility": 7,
+  "risk": 8,
+  "accumulator_enabled": true
+}
