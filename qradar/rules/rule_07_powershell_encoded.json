@@ -1,0 +1,8 @@
+{
+  "name": "QR_Rule_07: Encoded PowerShell Command Execution",
+  "enabled": true,
+  "description": "Base64 və ya -enc / -e parametrləri ilə obfuscasiya edilmiş PowerShell icrası.",
+  "severity": 8,
+  "credibility": 8,
+  "risk": 8
+}
