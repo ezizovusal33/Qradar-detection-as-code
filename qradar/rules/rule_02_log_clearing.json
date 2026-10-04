@@ -1,4 +1,5 @@
 {
+  "id": 100527,
   "name": "QR_Rule_02: Security Audit Log Cleared (Event 1102)",
   "enabled": true,
   "description": "Security loglarinin temizlenmesi (Event ID 1102) - Kritik anti-forensics iz itirme hərəkəti.",
