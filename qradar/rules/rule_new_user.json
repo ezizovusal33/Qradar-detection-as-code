@@ -1,7 +1,0 @@
-{
-  "name": "Rule 2: New User Account Created",
-  "enabled": true,
-  "description": "Detects creation of a new user account in Active Directory",
-  "response_custom_action_id": -1,
-  "accumulator_enabled": false
-}

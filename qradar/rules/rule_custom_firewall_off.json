@@ -1,7 +1,0 @@
-{
-  "id": 100483,
-  "name": "Custom 3: Windows Firewall State Modified or Disabled",
-  "enabled": true,
-  "description": "Detects defense evasion attempts by stopping or altering Windows Firewall service via WinCollect.",
-  "response_custom_action_id": -1
-}

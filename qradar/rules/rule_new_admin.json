@@ -1,6 +1,0 @@
-{
-  "name": "Rule 2: New Administrator User Created",
-  "enabled": true,
-  "description": "Detects creation or promotion of a user to administrative privileges.",
-  "response_custom_action_id": -1
-}
