@@ -1,0 +1,8 @@
+{
+  "name": "QR_Rule_04: Suspicious Registry Run Key Modification",
+  "enabled": true,
+  "description": "Sübhəli qovluqlardan (Temp, Users\Public) Registry Run açarlarına modifikasiya.",
+  "severity": 8,
+  "credibility": 7,
+  "risk": 8
+}
