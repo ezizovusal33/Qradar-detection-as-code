@@ -1,0 +1,9 @@
+{
+  "name": "QR_Rule_05: Behavioral Reconnaissance / Multi-Command Execution",
+  "enabled": true,
+  "description": "Qısa müddət ərzində dalbadal whoami, net user, net view kimi kəşfiyyat əmrlərinin icrası.",
+  "severity": 7,
+  "credibility": 7,
+  "risk": 7,
+  "accumulator_enabled": true
+}
