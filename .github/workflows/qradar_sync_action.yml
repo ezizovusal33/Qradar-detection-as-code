@@ -13,7 +13,7 @@ jobs:
   sync-to-qradar:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Repozitoriyaya dəyişiklik yazmaq (push etmək) üçün icazə verir
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -24,21 +24,10 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests urllib3
+        run: pip install requests urllib3
 
-      - name: Run QRadar Sync Script
+      - name: Run QRadar Sync Pipeline
         env:
           QRADAR_IP: ${{ secrets.QRADAR_IP }}
           QRADAR_TOKEN: ${{ secrets.QRADAR_TOKEN }}
-        run: |
-          python scripts/qradar_sync_pipeline.py
-
-      - name: Commit and Push all_qradar_rules.json
-        run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
-          git add all_qradar_rules.json
-          git diff --staged --quiet || git commit -m "Auto-update all_qradar_rules.json from QRadar API [skip ci]"
-          git push
+        run: python scripts/qradar_sync_pipeline.py
