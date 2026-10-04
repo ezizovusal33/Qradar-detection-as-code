@@ -1,7 +1,7 @@
 {
   "name": "QR_Rule_06: DCSync Credential Dumping Attempt",
   "enabled": true,
-  "description": "Aktiv direktoriyanın şifrə bazasını replikasiya etmək üçün DCSync hücum cəhdi",
+  "description": "Aktiv direktoriyanın şifrə bazasını replikasiya etmək üçün DCSync hücum cəhdi.",
   "severity": 10,
   "credibility": 9,
   "risk": 10
