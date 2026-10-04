@@ -1,7 +1,7 @@
 {
   "name": "QR_Rule_08: NTDS.dit Database Extraction (Vssadmin / Ntdsutil)",
   "enabled": true,
-  "description": "Active Directory ntds.dit şifrə bazasının surətinin çıxarılması və oğurlanması cəhdi.",
+  "description": "Active Directory ntds.dit şifrə bazasının surətinin çıxarılması və oğurlanması cəhdi",
   "severity": 10,
   "credibility": 9,
   "risk": 10
